@@ -6,6 +6,8 @@ Lotto draws random number selections for games from 1 of 1 to 99 of 99, makes up
 to 999 combinations at a time and can keep up to five fixed numbers in every
 combination. The result can be saved to a file (`LOTTO.TXT`).
 
+![Goran's Lotto ScreenShot](/doc/GoransLotto.png)
+
 The original program (version 1.02, 1999) was written by Goran Ivankovic in
 VX-REXX. The source code was recovered from its resource file (`Lotto.RES`, kept
 in `legacy/`) and the program was rewritten in C for Open Watcom by the
